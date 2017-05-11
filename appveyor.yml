@@ -19,5 +19,5 @@ test_script:
   # run tests
   - npm test
 
-# Don't actually build.
+# Don't actually build.  REMEMBER THAT INDENTATION MATTERS IN THIS FILE
 build: off
